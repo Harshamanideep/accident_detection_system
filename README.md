@@ -1,3 +1,7 @@
+Accident-Detection-System:
+
+
+
 This project tackles the critical challenge of road safety by developing an accident detection system. The system aims to rapidly identify and respond to vehicle accidents, potentially saving lives through faster emergency response times.
 
 
